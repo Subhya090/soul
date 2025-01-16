@@ -1,0 +1,20 @@
+# Core Python dependencies
+requests
+numpy
+python-telegram-bot
+flask
+logging
+pycryptodome   # For cryptographic operations if needed
+pyshark         # For network packet capture, if needed for analysis
+scapy           # For network packet crafting and sniffing
+pynput          # For keyboard and mouse monitoring if needed
+
+# For security & handling TCP/UDP packets
+socket
+gevent
+
+# To manage environment variables and configuration
+python-dotenv
+
+# For handling async processes if your app needs concurrency
+asyncio
