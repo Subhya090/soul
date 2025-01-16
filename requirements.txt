@@ -9,9 +9,6 @@ scapy           # For network packet crafting and sniffing
 pynput          # For keyboard and mouse monitoring if needed
 
 # For security & handling TCP/UDP packets
-socket
-gevent
-
 # To manage environment variables and configuration
 python-dotenv
 
