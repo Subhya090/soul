@@ -3,7 +3,6 @@ requests
 numpy
 python-telegram-bot
 flask
-logging
 pycryptodome   # For cryptographic operations if needed
 pyshark         # For network packet capture, if needed for analysis
 scapy           # For network packet crafting and sniffing
